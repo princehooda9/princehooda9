@@ -1,4 +1,3 @@
-About
 I'm actively building across AI, machine learning, and software engineering — driven by curiosity for how intelligent systems can solve real-world problems at scale and transform user experiences.
  
 Over the past year I've shipped end-to-end projects — a brain tumor segmentation system using Swin-UNETR on BraTS 2021, a hardware-aware ML optimizer achieving 88% configuration accuracy across 20 real hardware environments, and a generative AI platform built for Samsung retailers. I don't just study concepts — I build with them.
