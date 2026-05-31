@@ -19,3 +19,8 @@ Open to: Internships · Full-time · Research collaborations
 | [Deepfake Detector](https://github.com/princehooda9/deepfake-detector) | Video deepfake detection using MTCNN + FaceNet embeddings + heuristic analysis | PyTorch · FastAPI · OpenCV |
 | [LifeVault](https://github.com/princehooda9/lifevault) | Live deployed intelligent personal workspace with smart notes and file vault | React · Firebase · Cloudinary · Vercel |
 | [Ryser Parallel Permanent](https://github.com/princehooda9/ryser-parallel-permanent) | Optimized #P-hard matrix permanent with Gray code + CPU parallelism | Python · NumPy · multiprocessing |
+
+
+<p align="center">
+  <i>More projects available in <a href="https://github.com/princehooda9?tab=repositories">repositories</a></i>
+</p>
